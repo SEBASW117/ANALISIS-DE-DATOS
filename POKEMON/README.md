@@ -1,4 +1,3 @@
-# ANALISIS-DE-DATOS
-Algunos notebooks con analítica de datos a diferentes bases de datos
+# BASES DE DATOS POKEMON
 
-Cuadernos de analitica de datos con analisis de diferentes bases de datos como lo son Pokemon stats disponibles en : https://www.kaggle.com/datasets/ulrikthygepedersen/pokemon-stats
+Aqui se encuentra un analisis de meta data, analisis descriptivo y un modelo de regresion logistica para la base de datos de pokemon stats, la base de datos de la cual se tomo la informacion esta disponible en : https://www.kaggle.com/datasets/ulrikthygepedersen/pokemon-stats
